@@ -1,0 +1,3 @@
+C:\Projects\GitProjects\ImaginaryEngine\EngineRayLib\Debug\EngineRayLib.exe
+C:\Projects\GitProjects\ImaginaryEngine\EngineRayLib\Debug\EngineRayLib.vcxproj.CopyComplete
+C:\Projects\GitProjects\ImaginaryEngine\EngineRayLib\Debug\raylib.dll
