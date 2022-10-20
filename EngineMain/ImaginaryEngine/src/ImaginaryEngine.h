@@ -1,8 +1,8 @@
 #pragma once
 
-#include <stdio.h>
-
 #include "ImaginaryEngine/Application.h"
+
+#include "ImaginaryEngine/Log.h"
 
 //------EntryPOint
 #include "ImaginaryEngine/EntryPoint.h"

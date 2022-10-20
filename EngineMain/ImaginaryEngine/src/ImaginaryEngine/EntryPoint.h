@@ -6,7 +6,10 @@ extern ImaginaryEngine::Application* ImaginaryEngine::CreateApplication();
 
 int main(int argc,char** argv)
 {
-	printf("Engine Started");
+	ImaginaryEngine::Log::Init();
+	IWE_CORE_WARN("Application Started");
+	int a = 5;
+	IWE_INFO("Welcome {0}",a);
 	auto app = ImaginaryEngine::CreateApplication();
 	app->Run();
 	delete app;
